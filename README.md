@@ -1,2 +1,2 @@
-# -1000GiftCard
+# giftcard
 $1000 Amazon Gift Card!
